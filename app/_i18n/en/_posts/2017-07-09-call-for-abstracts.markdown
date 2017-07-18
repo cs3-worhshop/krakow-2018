@@ -10,13 +10,13 @@ Workshop on Cloud Services for File Synchronisation and Sharing (CS3) 2018 will 
 
 * institutions providing or planning innovative services for collaborative cloud storage
 * developers (freelance, hired) or active researchers
-* established companies and start-ups developing solutions or providing services for collaborative cloud storage (apps, tools, frameworks etc.)e (apps, tools, frameworks etc.)
-* projects proposing innovative ways to create/federate distributed user communities in the area of research, education and innovation
+* established companies and start-ups developing solutions or providing services for collaborative cloud storage (apps, tools, frameworks etc.)
+* projects proposing innovative ways to create or federate distributed user communities in the area of research, education and innovation
 
 If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). The programme committee assesses the proposals and selects the actual conference talks.<br/>
 
 #### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+Our team prepared set of interesting topics but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
 * protocols for file sharing and synchronization
 * reliability and consistency of file synchronization services
@@ -31,7 +31,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 #### Please submit your proposals [here](https://www.example.com).
 __Deadlines:__ are as follows:
 
-* Abstract submissions opens: September 1st 2017
+* Abstract submission opens: September 1st 2017
 * Registration opens: September 1st 2017
 * Abstract submission closes: November 30st 2017
 * Accepted abstract notification: December 10st 2017
