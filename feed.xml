@@ -5,8 +5,8 @@
     <description></description>
     <link>http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/</link>
     <atom:link href="http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 25 Sep 2017 10:42:05 +0200</pubDate>
-    <lastBuildDate>Mon, 25 Sep 2017 10:42:05 +0200</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2017 10:44:44 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2017 10:44:44 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -235,17 +235,12 @@ A summary of all site reports will be presented by a session convener in one sin
     
       <item>
         <title>What is the workshop about?</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://cs3.surfsara.nl/site/wp-content/uploads/2016/09/board.png&quot; alt=&quot;communities&quot; style=&quot;width: 60%;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;This event is focused on non-traditional working storage: Cloud Storage Services for File Synchronization and Sharing (CS3). Particular attention is given to scientific and engineering applications and environments.
+Full program is available &lt;a href=&quot;http://cs3.cyfronet.pl/blog/programe&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This event is focused on non-traditional working storage: Cloud Storage Services for File Synchronization and Sharing (CS3). Particular attention is given to scientific and engineering applications and environments.&lt;/p&gt;
+&lt;p&gt;The event history can be found &lt;a href=&quot;http://cs3.cyfronet.pl/blog/road_to_krakow_cs3&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Full program is available &lt;a href=&quot;http://cs3.cyfronet.pl/blog/programe&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Map of CS3 community:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/RtEXM5H.png&quot; alt=&quot;communities&quot; style=&quot;width: 60%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You can find even &lt;a href=&quot;http://cs3.cyfronet.pl/blog/road_to_krakow_cs3&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cs3.surfsara.nl/site/wp-content/uploads/2016/09/board.png&quot; alt=&quot;communities&quot; style=&quot;width: 50%;&quot; /&gt;&lt;img src=&quot;https://i.imgur.com/RtEXM5H.png&quot; alt=&quot;communities&quot; style=&quot;width: 50%;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Jul 2017 09:00:00 +0000</pubDate>
         <link>http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/blog/what-is-the-workshop-about</link>
