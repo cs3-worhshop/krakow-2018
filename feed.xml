@@ -5,9 +5,139 @@
     <description></description>
     <link>http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/</link>
     <atom:link href="http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 15 Sep 2017 10:28:59 +0200</pubDate>
-    <lastBuildDate>Fri, 15 Sep 2017 10:28:59 +0200</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2017 10:12:25 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2017 10:12:25 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>CS3 2018 Programme</title>
+        <description>&lt;p&gt;The event consists of 7 sessions in a single-track: 5 regular oral sessions + 2 special-format sessions. In between sessions there will be plenty of time for discussions and networking.&lt;/p&gt;
+
+&lt;p&gt;In this edition we added an exciting new session on Cloud Infrastructure&amp;amp;Software Stacks for Data Science.&lt;/p&gt;
+
+&lt;p&gt;For all regular sessions oral presentations are accepted. The number of slots is limited and not guaranteed.&lt;/p&gt;
+
+&lt;h4 id=&quot;user-voice-novel-applications&quot;&gt;User Voice: Novel Applications&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Format: prime time presentations, 25 minutes + 10 minutes QA.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is an increasing number of scientific-, engineering-, collaborative- and office applications closely integrated with CS3 services (cloud storage and file sync/share services). This session is designed for (power-)users of such novel applications to share their experience with synchronized-, online- and offline-storage: benefits and areas for improvement of CS3 services in their respective application domains. This session is an opportunity for service and technology providers to understand opportunities and new requirements but also shortcomings of existing CS3 implementations from the most important perspective: the one of the user.&lt;/p&gt;
+
+&lt;p&gt;Application domain examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Image collection, processing and analysis&lt;/li&gt;
+  &lt;li&gt;Educational applications&lt;/li&gt;
+  &lt;li&gt;Scientific notebooks for data processing&lt;/li&gt;
+  &lt;li&gt;Collaboration and communication in teams&lt;/li&gt;
+  &lt;li&gt;Decision support systems&lt;/li&gt;
+  &lt;li&gt;Problem solving environments&lt;/li&gt;
+  &lt;li&gt;Data curation and publication workflows&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;scalable-storage-backends&quot;&gt;Scalable Storage Backends&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Format: oral presentations, 20 minutes + 5 minutes QA&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;High-performance and cost-effective storage solutions are important to scale up and evolve synchronization services. The separation between the storage backend used for offering sync&amp;amp;share services and the ones for analytics is usually not desirable. This separation prevents the users to easily share algorithms and results; it also complicates data correlation and full-statistics access; ultimately hardware resources are not optimally used and managed.&lt;/p&gt;
+
+&lt;p&gt;In the storage track we call for contributions from innovative storage providers. Interesting storage systems should promote seamless integration with synchronization infrastructures. They should scale above many thousands of clients and have multi-PB storage capacity. To allow federating distinct storage resources, multi-site capabilities are quite important; cache capabilities to improve user experience and system resilience are also interesting&lt;/p&gt;
+
+&lt;p&gt;Synchronization/Sharing Technology &amp;amp; Research&lt;/p&gt;
+
+&lt;p&gt;Type: oral presentations, 20 minutes + 5 minutes QA&lt;/p&gt;
+
+&lt;p&gt;This is a classic CS3 session to present technology, design, experimentation and research results relevant for development and operation of synchronization and sharing services. The topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;algorithms and protocols for file sync and sharing&lt;/li&gt;
+  &lt;li&gt;sharing and metadata semantics&lt;/li&gt;
+  &lt;li&gt;data integrity, reliability&lt;/li&gt;
+  &lt;li&gt;conflict resolution&lt;/li&gt;
+  &lt;li&gt;network-aware design&lt;/li&gt;
+  &lt;li&gt;software QA hardening and resilience&lt;/li&gt;
+  &lt;li&gt;desktop and mobile integration&lt;/li&gt;
+  &lt;li&gt;backup strategies&lt;/li&gt;
+  &lt;li&gt;monitoring tools&lt;/li&gt;
+  &lt;li&gt;testing frameworks&lt;/li&gt;
+  &lt;li&gt;security frameworks and procedures&lt;/li&gt;
+  &lt;li&gt;new user interfaces&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;file-syncshare-products-for-home-lab-and-enterprise&quot;&gt;File Sync&amp;amp;Share Products for Home, Lab and Enterprise&lt;/h4&gt;
+
+&lt;p&gt;Format: oral presentations, 20 minutes + 5 minutes QA&lt;/p&gt;
+
+&lt;p&gt;In this session software companies present their File Sync&amp;amp;Share products: latest releases, planned new feature and development roadmap.&lt;/p&gt;
+
+&lt;p&gt;Past speakers included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nextcloud, Owncloud, Powerfolder, Pydio, Seafile, Syncany&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;cloud-infrastructuresoftware-stacks-for-data-science&quot;&gt;Cloud Infrastructure&amp;amp;Software Stacks for Data Science&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Format: oral presentations, 20 minutes + 5 minutes QA&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Classical networked storage systems typically accepted science data in bulk uploads, often after processing; as a consequence, stored data usually wasn’t “live” in the sense of “fresh from the instrument”. Similarly, efforts at building Virtual Research Environments (VREs; essentially cloud-based science toolchains) haven’t seen great uptake, again because the tools are only useful if they have fresh data to operate on, and users typically do not good discipline at regular uploading of data taking runs.&lt;/p&gt;
+
+&lt;p&gt;In contrast, synched data stores hold what can be considered “live data” – thereby offering the possibility of performing first-line scientific munging / workflow / analytics on the cloud platform, rather than on researchers’ desktops. This opens up interesting possibilities of transparent compute scaling, GPU compute, science package management etc. not normally available on researcher-managed (“desktop”) platforms. This stream is intended to showcase such novel opportunities.&lt;/p&gt;
+
+&lt;p&gt;Keywords:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Virtual Research Environments&lt;/li&gt;
+  &lt;li&gt;Data Management and Workflows&lt;/li&gt;
+  &lt;li&gt;File Transfer &amp;amp; Distribution&lt;/li&gt;
+  &lt;li&gt;Virtualization: Open Stack, Open Nebula&lt;/li&gt;
+  &lt;li&gt;Containers and Orchestration: Kubernetes, Mesos&lt;/li&gt;
+  &lt;li&gt;Analytics: Hadoop,Spark&lt;/li&gt;
+  &lt;li&gt;Compute and Grid services&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;special-format-sessions&quot;&gt;Special-format sessions&lt;/h2&gt;
+
+&lt;h4 id=&quot;interoperability&quot;&gt;Interoperability&lt;/h4&gt;
+
+&lt;p&gt;OCM.&lt;/p&gt;
+
+&lt;p&gt;Format and contributions: to be defined.&lt;/p&gt;
+
+&lt;h4 id=&quot;site-reports&quot;&gt;Site reports&lt;/h4&gt;
+
+&lt;p&gt;There is a growing number of sync&amp;amp;share services deployed and operated in the CS3 community. This session is an opportunity to present current status and plans, user feedback as well as share operational experience: main issues and concerns for your service. This session will provide a “family photograph” or a “map” of all CS3 services in operation to give a clear and concise picture of the whole service community.&lt;/p&gt;
+
+&lt;p&gt;Format:&lt;/p&gt;
+
+&lt;p&gt;A summary of all site reports will be presented by a session convener in one single presentation. There will be few selected lightning talks on service highlights. This will be followed by the plenary discussion involving all participants. Immediately after the discussions will continue around the posters in the lobby. The posters will be on display for the whole time of the event.&lt;/p&gt;
+
+&lt;p&gt;How you can contribute:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You are asked to provide basic information about your service according to this template: https://cernbox.cern.ch/index.php/s/MwDjy0UEwfOjG5z By entering providing the information you will enter into the official CS3 contributor list.&lt;/li&gt;
+  &lt;li&gt;You are entitled to prepare a poster which will be displayed at the venue.&lt;/li&gt;
+  &lt;li&gt;Optionally, if you believe there is a particular highlight of your service, you may consider a 5 minutes lightning talk + 1 minute QA slot. The number of such slots is limited and not guaranteed.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 24 Sep 2017 09:00:00 +0000</pubDate>
+        <link>http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/blog/programe</link>
+        <guid isPermaLink="true">http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/blog/programe</guid>
+        
+        
+            
+        
+            
+            <category>en</category>
+            
+        
+      </item>
     
       <item>
         <title>Call for Abstracts</title>
@@ -109,6 +239,31 @@ Large-scale synchronization and sharing capabilities are already challenging exi
         <pubDate>Fri, 07 Jul 2017 09:00:00 +0000</pubDate>
         <link>http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/blog/what-is-the-worhskop-about</link>
         <guid isPermaLink="true">http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/blog/what-is-the-worhskop-about</guid>
+        
+        
+            
+        
+            
+            <category>en</category>
+            
+        
+      </item>
+    
+      <item>
+        <title>Road CS3 Krakow</title>
+        <description>&lt;p&gt;We will meet at the 4th Cloud Services for Synchronisation and Sharing (CS3) Conference in Krakow to review the state-of-the-art and share experiences about cloud storage services.  The community which gathered around the previous CS3 events includes users, service providers and developers of technological solutions. 
+The initial trigger of this conference series (CERN Geneva, November 2014) was the perception of the importance within the research environment of storage services capable to synchronise, share and interact with growing data volumes.&lt;/p&gt;
+
+&lt;p&gt;In the second conference (ETH Zurich, January 2016) we witnessed a growing interest in a larger community and the first  prototypes of innovative non-traditional working storage: systems having at their centre synchronisation and sharing capabilities are natural candidates to host demanding data processing in the future.&lt;/p&gt;
+
+&lt;p&gt;The third event (SurfSARA Amsterdam, January 2017) confirmed these trends and attracted larger community of technology leaders and alongside a solid CS3 community which is now organising in proposing and executing innovative projects and proposing standardisation lines across different installations and technologies.
+Large-scale synchronization and sharing capabilities are already challenging existing IT infrastructures in all areas, from security models to integration with compute resources. This situation calls for renewing computing infrastructures and the way research is done locally and across collaborating institutes.&lt;/p&gt;
+
+&lt;p&gt;As in the past, the conference will maximise the opportunity to liaise with key actors of the community. We invite you to submit abstracts using the abstract submission page. Selected presentations (oral or poster) will be part of a Book of Abstracts to be published in the conference website (Book of Abstracts of last conferences are available online).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Jul 2017 09:00:00 +0000</pubDate>
+        <link>http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/blog/road_to_krakow_cs3</link>
+        <guid isPermaLink="true">http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/blog/road_to_krakow_cs3</guid>
         
         
             
