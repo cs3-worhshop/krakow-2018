@@ -5,13 +5,17 @@
     <description></description>
     <link>http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/</link>
     <atom:link href="http://cs3.cyfronet.plhttp://cs3.cyfronet.pl/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Dec 2017 08:42:46 +0100</pubDate>
-    <lastBuildDate>Wed, 06 Dec 2017 08:42:46 +0100</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2017 10:22:42 +0100</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2017 10:22:42 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>CS3 2018 Programme</title>
-        <description>&lt;p&gt;The event consists of &lt;em&gt;7 sessions&lt;/em&gt; in a single-track: &lt;em&gt;5 regular oral sessions&lt;/em&gt; + &lt;em&gt;2 special-format sessions&lt;/em&gt;. In between sessions there will be plenty of time for discussions and networking.&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;The programme can be found &lt;a href=&quot;https://indico.cern.ch/event/663264/timetable/#20180129&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The event consists of &lt;em&gt;7 sessions&lt;/em&gt; in a single-track: &lt;em&gt;5 regular oral sessions&lt;/em&gt; + &lt;em&gt;2 special-format sessions&lt;/em&gt;. In between sessions there will be plenty of time for discussions and networking.&lt;/p&gt;
 
 &lt;p&gt;In this edition we added an exciting new session on &lt;em&gt;Cloud Infrastructure&amp;amp;Software Stacks for Data Science&lt;/em&gt;.&lt;/p&gt;
 
@@ -172,7 +176,7 @@ A summary of all site reports will be presented by a session convener in one sin
 &lt;ul&gt;
   &lt;li&gt;Abstract submissions opens: September 1st 2017&lt;/li&gt;
   &lt;li&gt;Registration opens: September 1st 2017&lt;/li&gt;
-  &lt;li&gt;Abstract submission closes: November 30st 2017&lt;/li&gt;
+  &lt;li&gt;Abstract submission closes: &lt;s&gt;November 30st 2017&lt;/s&gt; extended to December 10th 2017&lt;/li&gt;
   &lt;li&gt;Accepted abstract notification: December 10st 2017&lt;/li&gt;
 &lt;/ul&gt;
 
